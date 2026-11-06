@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -503,7 +502,6 @@
       </a>
       <span class="topline-note">A LITTLE SOMETHING JUST FOR YOU</span>
     </header>
-
     <section class="hero" aria-labelledby="page-title">
       <div class="hero-copy">
         <p class="eyebrow">A LITTLE NOTE FROM ABI</p>
@@ -513,52 +511,43 @@
           your talent, your effort, or all the wonderful things that make you you.
         </p>
       </div>
-
       <div class="hero-illustration" aria-hidden="true">
         <span class="twinkle twinkle-one">✦</span>
         <span class="twinkle twinkle-two">✧</span>
-
         <!-- A little bouquet of tulips -->
         <svg viewBox="0 0 360 340" xmlns="http://www.w3.org/2000/svg">
           <circle cx="180" cy="170" r="145" fill="#eee6fb"/>
           <circle cx="180" cy="170" r="127" fill="none" stroke="#ffffff" stroke-opacity=".65" stroke-width="2"/>
-
           <!-- Decorative stars -->
           <path d="M75 87l4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#fff" opacity=".95"/>
           <path d="M278 71l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#b99cdd"/>
           <path d="M286 213l2.5 6.5 6.5 2.5-6.5 2.5-2.5 6.5-2.5-6.5-6.5-2.5 6.5-2.5z" fill="#fff"/>
           <circle cx="91" cy="190" r="3" fill="#b99cdd"/>
           <circle cx="259" cy="93" r="2.5" fill="#fff"/>
-
           <!-- Stems -->
           <g fill="none" stroke="#7eaa8b" stroke-linecap="round" stroke-width="7">
             <path d="M180 151c-3 43-3 90 0 141"/>
             <path d="M119 180c7 42 22 78 50 113"/>
             <path d="M241 170c-8 48-24 89-55 123"/>
           </g>
-
           <!-- Leaves -->
           <path d="M167 247c-24-31-56-36-76-29 12 28 39 43 78 38z" fill="#90b69a"/>
           <path d="M190 258c23-31 53-38 76-29-13 30-40 45-78 39z" fill="#83aa8e"/>
           <path d="M164 277c-23-19-46-21-62-13 15 21 36 29 65 25z" fill="#a1c2a4"/>
           <path d="M195 281c19-20 42-24 59-17-13 22-34 32-63 29z" fill="#9abb9b"/>
-
           <!-- Left tulip -->
           <path d="M119 184c-23-1-29-20-23-47 9 8 17 3 23-19 7 24 15 27 24 19 5 27-2 46-24 47z" fill="#dfa5d0"/>
           <path d="M119 122c-2 20-2 41 0 59" fill="none" stroke="#f7d7ec" stroke-linecap="round" stroke-width="3"/>
           <path d="M97 143c5 20 11 29 22 36" fill="none" stroke="#f3c5e3" stroke-linecap="round" stroke-width="2"/>
-
           <!-- Right tulip -->
           <path d="M241 174c-23-1-29-20-23-47 9 8 17 3 23-19 7 24 15 27 24 19 5 27-2 46-24 47z" fill="#b69bdf"/>
           <path d="M241 112c-2 20-2 41 0 59" fill="none" stroke="#e4d6f6" stroke-linecap="round" stroke-width="3"/>
           <path d="M219 133c5 20 11 29 22 36" fill="none" stroke="#d8c6f0" stroke-linecap="round" stroke-width="2"/>
-
           <!-- Tall middle tulip -->
           <path d="M180 158c-25-1-32-22-27-53 10 9 19 4 27-27 9 31 18 36 28 27 5 31-2 52-28 53z" fill="#9473c7"/>
           <path d="M180 82c-2 25-2 51 0 73" fill="none" stroke="#d8c8ef" stroke-linecap="round" stroke-width="3"/>
           <path d="M155 105c6 24 14 38 25 48" fill="none" stroke="#c5afe6" stroke-linecap="round" stroke-width="2"/>
           <path d="M205 105c-6 24-14 38-25 48" fill="none" stroke="#c5afe6" stroke-linecap="round" stroke-width="2"/>
-
           <!-- A tiny ribbon around the stems -->
           <path d="M156 291c16 8 33 8 49 0l-4 17c-13 7-27 7-40 0z" fill="#d9b9e8"/>
           <path d="M164 298l-13 17 19-5m27-12 13 17-19-5" fill="#c8a8de"/>
@@ -566,63 +555,51 @@
         </svg>
       </div>
     </section>
-
     <section class="content-grid" aria-label="A note and reminders for Varshi">
       <article class="letter-card">
         <p class="section-label">A NOTE FOR VARSHI</p>
-
         <p class="salutation">Hey Varshi,</p>
-
         <p>
           I know it can feel disappointing to share a dance cover and find the
           comments quiet. But it’s not only about the comments. I want you to
           know that I think everything you do is amazing. I notice the effort
           and heart you put into things, and I hope you remember how special that is.
         </p>
-
         <p>
           I know I can overdo things sometimes, and yes, I used AI to help make
           this page. I had a hard time researching how to build something like
           this when I didn’t have a single idea where to start, but I still
           wanted to make something for you. So yeah, I hope you feel a little better.
         </p>
-
         <p>
           Also, there’s a “Give me another reminder” button. Just press it and
           you’ll get another reminder each time.
         </p>
-
         <p class="signoff">
           I’m cheering you on,<br>
           <strong>Abi</strong>
         </p>
       </article>
-
       <aside class="reminder-card" aria-labelledby="reminder-heading">
         <span class="reminder-icon" aria-hidden="true">✦</span>
         <h2 id="reminder-heading">A gentle reminder</h2>
         <span class="reminder-count" id="reminder-count">REMINDER 1 OF 100</span>
-
         <p class="reminder-text" id="reminder-text" aria-live="polite">
           Varshi, you are allowed to feel proud of how far you've come.
         </p>
-
         <p class="reminder-help">
           There are 100 little reminders. Tap the button whenever you want another.
         </p>
-
         <button id="reminder-button" type="button">
           Give me another reminder
         </button>
       </aside>
     </section>
-
     <footer>
       <span>A little note, made with care by Abi.</span>
       <span>One post is just one moment.</span>
     </footer>
   </main>
-
   <script>
     const reminders = [
       // 1–10
@@ -636,7 +613,6 @@
       "Your dance journey doesn't have to look like anyone else's.",
       "You don't have to be perfect to be worth celebrating.",
       "A slow beginning is still a beginning.",
-
       // 11–20
       "Your progress can be real even when it's hard to notice.",
       "You bring your own style to what you create.",
@@ -648,7 +624,6 @@
       "Keep the parts of dancing that make you feel alive.",
       "Your effort is something you can be proud of.",
       "You don't need to rush your growth.",
-
       // 21–30
       "Being new doesn't make you any less worthy of support.",
       "You deserve to celebrate small wins.",
@@ -660,7 +635,6 @@
       "Your dedication is worth noticing.",
       "You get to create for joy, not just for reactions.",
       "You are allowed to be a beginner and still be proud.",
-
       // 31–40
       "The right audience can take time to find you.",
       "Your value doesn't change with the number of comments.",
@@ -672,7 +646,6 @@
       "You don't have to earn rest.",
       "Every bit of practice adds to your journey.",
       "You have more to offer than one post can show.",
-
       // 41–50
       "Your courage is already something to celebrate.",
       "Keep learning, keep creating, and be gentle with yourself.",
@@ -684,7 +657,6 @@
       "There is no single timeline for success.",
       "You are still growing, and that's a good thing.",
       "Your next step doesn't need to be a giant leap.",
-
       // 51–60
       "Make room for the fun that made you start dancing.",
       "You are allowed to celebrate yourself without waiting for likes.",
@@ -696,7 +668,6 @@
       "Your work deserves care, and so do you.",
       "You are allowed to change, experiment, and find your style.",
       "A small audience can still be a meaningful start.",
-
       // 61–70
       "Keep being curious about what you can create.",
       "You can be proud of the effort even if the outcome wasn't what you hoped.",
@@ -708,7 +679,6 @@
       "Your feelings are valid, and so is your hope.",
       "You deserve the same patience you give other people.",
       "You are doing better than you think, one step at a time.",
-
       // 71–80
       "Let your progress be personal, not a competition.",
       "You can start again whenever you're ready.",
@@ -720,7 +690,6 @@
       "Even imperfect attempts help you improve.",
       "Your creativity is not measured by engagement.",
       "It's okay to ask for support when you need it.",
-
       // 81–90
       "You make the journey brighter just by showing up as yourself.",
       "Keep the memories and lessons from each time you try.",
@@ -732,7 +701,6 @@
       "You don't have to prove your worth to anyone.",
       "What matters to you is worth making time for.",
       "Your future audience hasn't seen all you'll create yet.",
-
       // 91–100
       "A kind word from yourself can make a difference.",
       "You can let today be a tough day without making it a tough future.",
@@ -745,19 +713,14 @@
       "Celebrate the fact that you tried, Varshi.",
       "Abi is cheering you on, and I hope you keep being you."
     ];
-
     const reminderText = document.getElementById("reminder-text");
     const reminderCount = document.getElementById("reminder-count");
     const reminderButton = document.getElementById("reminder-button");
-
     let currentIndex = 0;
-
     reminderButton.addEventListener("click", () => {
       currentIndex = (currentIndex + 1) % reminders.length;
-
       reminderText.classList.remove("is-changing");
       void reminderText.offsetWidth;
-
       reminderText.textContent = reminders[currentIndex];
       reminderText.classList.add("is-changing");
       reminderCount.textContent =
